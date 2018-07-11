@@ -1,2 +1,2 @@
 # SoC-HPS-based-RL-disk-emulator
-FPGA:  SoC/HPS based RL01/RL02 disk emulator, DE0-Nano-SoC board
+SoC/HPS based RL01/RL02 disk emulator, Altera 28-nm Cyclone V FPGA with ARM Cortex-A9 (DE0-Nano-SoC board) 
