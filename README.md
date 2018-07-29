@@ -27,8 +27,9 @@ free and can be used for other purposes, even for non-DEC applications, maybe MF
 It would be nice if a cooperation works here.
 
 **Updates**
-Open issue: Get the UNIX load firmware .rbf-file problem fixed.
-Add ons schedule: 
--Finish documentation if the above open issue is solved
--Inline implementation of the data convert utilities .DEC <==>.DSK 
--Implementation of additional UART's to get multi-user environment emulated.
+Open issue: Get the UNIX load firmware .rbf-file problem fixed.                                        
+Add ons schedule:                                                                                    
+-Finish documentation if the above open issue is solved                                                
+-Inline implementation of the data convert utilities .DEC <==>.DSK                                       
+-Implementation of additional UART's to get multi-user environment emulated.                            
+
