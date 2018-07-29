@@ -23,5 +23,12 @@ application.
 **Summary**
 This project is just the beginning. The DE10 Nano board is very flexible and still offers plenty 
 of room for additional add-ons and new applications. The second PIO and the Arduino slot is still 
-free and can be used for other purposes, even for non-DEC applications, maybe MFM emulator.
+free and can be used for other purposes, even for non-DEC applications, maybe MFM(RX02/TU58) emulator.
 It would be nice if a cooperation works here.
+
+**Updates**
+Open issue: Get the UNIX load firmware .rbf-file problem fixed.
+Add ons schedule: 
+-Finish documentation if the above open issue is solved
+-Inline implementation of the data convert utilities .DEC <==>.DSK 
+-Implementation of additional UART's to get multi-user environment emulated.
