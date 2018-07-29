@@ -20,3 +20,8 @@ Version 16.1 based on the SoC/HPS environment. The !README.txt  file also contai
 instructions how to rebuild the project... or for reference purpose if you want to add another
 application. 
 
+**Summary**
+This project is just the beginning. The DE10 Nano board is very flexible and still offers plenty 
+of room for additional add-ons and new applications. The second PIO and the Arduino slot is still 
+free and can be used for other purposes, even for non-DEC applications, maybe MFM emulator.
+It would be nice if a cooperation works here.
