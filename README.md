@@ -27,7 +27,7 @@ free and can be used for other purposes, even for non-DEC applications, maybe MF
 It would be nice if a cooperation works here.
 
 **Updates**
-Open issue: Get the UNIX load firmware .rbf-file problem fixed.                                        
+Open issue: Get the UNIX load firmware .rbf-file implemented more easily, any hint is welcome.                                        
 Add ons schedule:                                                                                    
 -Finish documentation if the above open issue is solved                                                
 -Inline implementation of the data convert utilities .DEC <==>.DSK                                       
