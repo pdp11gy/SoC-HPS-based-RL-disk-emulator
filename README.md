@@ -28,8 +28,7 @@ It would be nice if a cooperation works here.
 
 **Updates**
 Open issue: Get the UNIX load firmware .rbf-file implemented more easily, any hint is welcome.                                        
-Add ons schedule:                                                                                    
--Finish documentation if the above open issue is solved                                                
--Inline implementation of the data convert utilities .DEC <==>.DSK                                       
+Add ons schedule (V2.1):                                                                                                                                   
+-Inline implementation data convert utilities .DEC <==>.DSK                                       
 -Implementation of additional UART's to get multi-user environment emulated.                            
 
