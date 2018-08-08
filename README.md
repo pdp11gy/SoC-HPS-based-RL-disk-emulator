@@ -14,8 +14,8 @@ interface. For example: I can compile the programs like SIMH emulators and copy 
 board, because it is binary compatible. See also https://github.com/simh/simh 
 
 **Implementation** ( see also www.pdp11gy.com ) :
-Download and unzip the file DE10_SoC_RL_emulator_V1.zip. Please read the file !README.txt.
-The folder DE10_SoC_RL_emulator_V1 will include all sources and the correct setup for Quartus
+Download and unzip the file DE10_SoC_RL_emulator_V2.zip. Please read the file !README.txt.
+The folder DE10_SoC_RL_emulator_V2 will include all sources and the correct setup for Quartus
 Version 16.1 based on the SoC/HPS environment. The !README.txt  file also contains detailed 
 instructions how to rebuild the project... or for reference purpose if you want to add another
 application. 
