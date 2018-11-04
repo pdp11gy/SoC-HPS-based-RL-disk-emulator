@@ -30,7 +30,7 @@ buttons. More details with an example in the user manual.
 
 **Summary**
 This project is just the "beginning". The DE10 Nano board is very flexible and still offers plenty 
-of room for additional add-ons and new applications. But now I am already a retiree and my energy 
+of room for additional add-ons and new applications. But now I am already a retire and my energy 
 decreases. I am only concerned with the preservation of the vintage computer software. 
 The second PIO and the Arduino slot is still free and can be used for other purposes, even for 
 non-DEC applications, maybe MFM(RX02/TU58) emulator. It would be nice if a cooperation works here. 
