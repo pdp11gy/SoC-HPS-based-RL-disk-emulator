@@ -21,10 +21,11 @@ instructions how to rebuild the project... or for reference purpose if you want 
 application. 
 
 **Updates**                                                                                         
-Version **2.1** : Full suppert for .DSK image file. The rlemulator is using now also .DSK disk image 
+Version **2.2** : Full suppert for .DSK image file. The rlemulator is using now also .DSK disk image 
 files, which contain the raw dump of a disk. At write operation, the .DEC file and the .DSK file will be 
 written. At read operation, first try is to read the .DEC file. If it does not exist,the .DSK file will 
-be read. Best interface to the SIMH project. More deatails with an example in the user manuel.         
+be read. Best interface to the SIMH project. Implementation of a possibility of external Reset/Reconfig 
+buttons. More details with an example in the user manual.                                                      
 **Open issue:**  Get the UNIX load firmware .rbf-file implemented more easily, any hint is welcome.                                        
 
 **Summary**
