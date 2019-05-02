@@ -30,6 +30,6 @@ written. At read operation, first try is to read the .DEC file. If it does not e
 be read. Best interface to the SIMH project. Implementation of a possibility of external Reset/Reconfig 
 buttons. More details with an example in the user manual.                                                      
 **Open issue:**  Get the UNIX load firmware .rbf-file implemented more easily, any hint is welcome.                    
-** Update: ** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference :
+**Update:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference :                      
 https://github.com/nhasbun/de10nano_fpga_linux_config . For detailed information please send an e-mail.                                        
 
