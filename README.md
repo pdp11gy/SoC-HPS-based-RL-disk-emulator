@@ -18,10 +18,10 @@ board, because it is binary compatible. See also https://github.com/simh/simh
 
 **Implementation** ( see also www.pdp11gy.com ) :
 Download and unzip the file DE10_SoC_RL_emulator_V2.zip. Please read the file !README.txt.
-The folder DE10_SoC_RL_emulator_V2 will include all sources and the correct setup for Quartus
-Version 16.1 based on the SoC/HPS environment. The !README.txt  file also contains detailed 
-instructions how to rebuild the project... or for reference purpose if you want to add another
-application. 
+**The folder DE10_SoC_RL_emulator_V2_2 will include all sources** and the correct setup for Quartus
+Version 16.1 based on the SoC/HPS environment. The !README.txt file contains detailed instructions
+how to rebuild the project... or for reference purpose if you want to add another application.                                
+ 
 
 **Updates**                                                                                         
 Version **2.2** : Full suppert for **.DSK** image file. The rlemulator is using now also .DSK disk image 
