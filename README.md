@@ -33,8 +33,7 @@ buttons. More details with an example in the user manual.
 https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                       
                                                                                                                                
 For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
-https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  It is planned to bring these two projects                       
-together see also overview.jpg. Details will be published on my homepage.
+https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  It is planned to merge these two projects,                                          see also overview.jpg. Details will be published on my homepage.
                                                                                                                                
 
 
