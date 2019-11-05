@@ -18,7 +18,7 @@ board, because it is binary compatible. See also https://github.com/simh/simh
 
 **Implementation** ( see also www.pdp11gy.com ) :
 Download and unzip the file DE10_SoC_RL_emulator_V2.zip. Please read the file !README.txt.
-**The folder DE10_SoC_RL_emulator_V2_2 will include all sources** and the correct setup for Quartus
+**The folder DE10_SoC_RL_emulator_V2_2 contains all sources** and the correct setup for Quartus                             
 Version 16.1 based on the SoC/HPS environment. The !README.txt file contains detailed instructions
 how to rebuild the project... or for reference purpose if you want to add another application.                                
  
@@ -30,5 +30,11 @@ written. At read operation, first try is to read the .DEC file. If it does not e
 be read. Best interface to the SIMH project. Implementation of a possibility of external Reset/Reconfig 
 buttons. More details with an example in the user manual.                                                                         
 **Update:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference :                      
-https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                                        
+https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                       
+                                                                                                                               
+For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
+https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  It is planned to bring these two projects                       
+together see also overview.jpg. Details will be published on my homepage.
+                                                                                                                               
+
 
