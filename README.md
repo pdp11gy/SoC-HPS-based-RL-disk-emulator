@@ -32,9 +32,9 @@ buttons. More details with an example in the user manual.
 **Info:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference:                                                                    
 https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                       
                                                                                                                                    
-**With the new firmware version V2.5 it is also possible to clone a disk without a PDP-11 system.                                                        
+***With the new firmware version V2.5 it is also possible to clone a disk without a PDP-11 system.                                                        
 The software runs completely on the DE10-Nano board and generates .dsk files for direct further                                                       
-use with SIMH. Of course, the rlemulator also runs as usual with the new firmware version.**                                                     
+use with SIMH. Of course, the rlemulator also runs as usual with the new firmware version.***                                                     
                                                                                                         
                                                                                                         
 For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
