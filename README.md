@@ -29,7 +29,7 @@ files, which contain the raw dump of a disk. At write operation, the .DEC file a
 written. At read operation, first try is to read the .DEC file. If it does not exist,the .DSK file will 
 be read. Best interface to the SIMH project. Implementation of a possibility of external Reset/Reconfig 
 buttons. More details with an example in the user manual.                                                                         
-**Update:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference :                      
+**Info:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference:                                                                    
 https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                       
                                                                                                                                    
 **With the new firmware version V2.5 it is also possible to clone a disk without a PDP-11 system.                                                        
