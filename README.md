@@ -31,7 +31,12 @@ be read. Best interface to the SIMH project. Implementation of a possibility of 
 buttons. More details with an example in the user manual.                                                                         
 **Update:** The issue "load FPGA(.rbf file) from Linux"  was solved mainly by the GitHub reference :                      
 https://github.com/nhasbun/de10nano_fpga_linux_config . detailed information, see  manual Get_started.pdf.                       
-                                                                                                                               
+                                                                                                                                   
+**With the new firmware version V2.5 it is also possible to clone a disk without a PDP-11 system.                                                        
+The software runs completely on the DE10-Nano board and generates .dsk files for direct further                                                       
+use with SIMH. Of course, the rlemulator also runs as usual with the new firmware version.**                                                     
+                                                                                                        
+                                                                                                        
 For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
 https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  Furthermore, it is planned to bring both           
 interfaces together like in the overview.pdf dokument. Details will be published on my homepage, www.pdp11gy.com
