@@ -1,7 +1,7 @@
 # SoC/HPS-based-RL01/RL02-disk-emulator 
                                                                                                                                          
                                                                                                                                          
-# This version is out of date and will be replaced by version V2.8E
+# This version is out of date and is replaced by version V2.8E
  https://github.com/pdp11gy/DEC-RL02-01-disk-emulator-reader-cloner-writer
                                                                                                                                 
                                                                                                                                        
