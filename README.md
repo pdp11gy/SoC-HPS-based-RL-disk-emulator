@@ -2,7 +2,7 @@
                                                                                                                                          
                                                                                                                                          
 # This version is out of date and will be replaced by version V2.8E
-** https://github.com/pdp11gy/DEC-RL02-01-disk-emulator-reader-cloner-writer
+ https://github.com/pdp11gy/DEC-RL02-01-disk-emulator-reader-cloner-writer
                                                                                                                                 
                                                                                                                                        
                                                                                                                                        
