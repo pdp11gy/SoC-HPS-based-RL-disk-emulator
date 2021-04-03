@@ -1,4 +1,5 @@
-# SoC/HPS-based-RL01/RL02-disk-emulator
+# SoC/HPS-based-RL01/RL02-disk-emulator                                                                                            
+# This version is out of date and will be replaced by version V2.8. 
 SoC/HPS based RL01/RL02 disk emulator, Altera Cyclone V FPGA with ARM Cortex-A9 (DE10-Nano) 
 
 
